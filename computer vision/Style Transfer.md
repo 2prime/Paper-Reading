@@ -6,3 +6,7 @@
 1. - [ ] Fast Patch-based Style Transfer of Arbitrary Style
 1. - [ ] *Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
 1. - [ ] Visual Attribute Transfer through Deep Image Analogy
+1. - [ ] Demystifying Neural Sytle Transfer
+
+### Review
+1. - [ ] Neural Style Transfer: A Review arXiv:1703.06870
