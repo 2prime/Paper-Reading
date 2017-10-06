@@ -3,3 +3,4 @@
 1. - [ ] Entropy-SGD: Biasing Gradient Descent Into Wide Valleys
 1. - [ ] Train faster, generalize better: Stability of stochastic gradient descent
 1. - [x] Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints
+1. - [ ] A Variational Analysis of Stochastic Gradient Algorithms
