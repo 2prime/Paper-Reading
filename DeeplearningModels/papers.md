@@ -22,3 +22,4 @@
 1. - [x] GregorK, LecunY. Learning fast approximations of sparse coding ICML 2010
 1. - [x] BalduzziD, FreanM, Leary L, et al. The Shattered Gradients Problem: If resnetsare the answer, then what is the question? ICML2017.
 1. - [x] ZagoruykoS, KomodakisN. DiracNets: Training Very Deep Neural Networks Without Skip-Connections[J]. 2017.
+1. - [x] Improving training of deep neural networks via Singular Value Bounding
