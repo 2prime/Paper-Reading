@@ -12,3 +12,6 @@ Paper Reading Reviews From 2prime. <a href="http://about.2prime.cn">link</a>
 - Bayesian Stat
 - etc.
 
+
+Reference：
+https://github.com/WarBean/Unsupervised-Learning-Research
