@@ -14,4 +14,5 @@ Paper Reading Reviews From 2prime. <a href="http://about.2prime.cn">link</a>
 
 
 Reference：
-https://github.com/WarBean/Unsupervised-Learning-Research
+1. -[ ]  https://github.com/WarBean/Unsupervised-Learning-Research
+1. -[ ]  https://github.com/joanbruna/stat212b
