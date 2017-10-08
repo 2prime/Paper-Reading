@@ -4,8 +4,10 @@
 - 3d deep learning tutorial in cvpr2017:http://3ddl.stanford.edu/
 - geometric deep learning tutorial in cvpr2017:http://geometricdeeplearning.com/
 
-**M. M. Bronstein, J. Bruna, Y. LeCun, A. Szlam, P. Vandergheynst, Geometric deep learning: going beyond Euclidean data, IEEE Signal Processing Magazine 2017 (Review paper) ** http://cims.nyu.edu/~bruna/Media/graph_cnn_ieee.pdf
+**Review Paper**
+M. M. Bronstein, J. Bruna, Y. LeCun, A. Szlam, P. Vandergheynst, Geometric deep learning: going beyond Euclidean data, IEEE Signal Processing Magazine 2017 (Review paper) http://cims.nyu.edu/~bruna/Media/graph_cnn_ieee.pdf
 
+**Paper list**
 R. Levie*, F. Monti*, X. Bresson, M. M. Bronstein, CayleyNets: Graph convolutional neural networks with complex rational spectral filters, 2017 (CayleyNet framework) 
 
 F. Monti, X. Bresson, M. M. Bronstein, Geometric matrix completion with recurrent multi-graph neural networks, NIPS 2017 (CNNs on multiple graphs) [CODE] 
