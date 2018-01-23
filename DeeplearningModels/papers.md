@@ -25,3 +25,8 @@
 1. - [x] Improving training of deep neural networks via Singular Value Bounding
 1. - [x] Liming Zhao Jingdong Wang Xi Li Zhuowen Tu Wenjun Zeng. Deep Convolutional Neural Networks with Merge-and-Run Mappings
 1. - [x] TheReversibleResidualNetwork: BackpropagationWithoutStoringActivations
+1. - [ ] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+1. - [ ] Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation
+1. - [ ] MULTI-SCALE DENSE NETWORKS FOR RESOURCE EFFICIENT IMAGE CLASSIFICATION
+1. - [ ] CRESCENDONET: A NEW DEEP CONVOLUTIONAL NEURAL NETWORK WITH ENSEMBLE BEHAVIOR
+1. - [ ] CondenseNet: An Efficient DenseNet using Learned Group Convolutions
