@@ -3,6 +3,8 @@ Paper Reading Reviews From 2prime. <a href="http://about.2prime.cn">link</a>
 
 <hr/>
 
+**Attention:** Didn't upadted from 2017.10. *Out of dat!*
+
 ## Topics:
 - Machine learning
 - Deep Learning Models
